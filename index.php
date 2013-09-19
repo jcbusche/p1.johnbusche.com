@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <header><title>John Busche</title></header>
 <body>
