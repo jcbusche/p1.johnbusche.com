@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<header><title>John Busche</title></header>
+<title>John Busche</title>
 <body>
 <p>
 	Hi, my name is John. I'm 23 years old and currently taking time off of my undergraduate 
