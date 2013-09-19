@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="UTF-8"></head>
-<title>John Busche</title>
+<head><meta charset="UTF-8"><title>John Busche</title></head>
+
 <body>
 <p>
 	Hi, my name is John. I'm 23 years old and currently taking time off of my undergraduate 
