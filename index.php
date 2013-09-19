@@ -15,5 +15,10 @@
 	the time to sit down and go through all of the setup for this project.  This shouldn't happen
 	again.
 </p> 
+<p>
+	I hope that this submission isn't too late and that it won't be an issue that I didn't
+	do any CSS formatting on this.  My CSS is a little rusty and I'm short on time -- planning
+	on brushing up over the weekend.
+</p>
 </body>
 </html>
