@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="UTF-8"><title>John Busche</title></head>
+<head>
+	<style type="text/css">
+	h1 {color:red;}
+	p {color:blue;}
+	</style>
+	<meta charset="UTF-8"><title>John Busche</title>
+</head>
+<h1>
+	Hello
+</h1>
 
 <body>
 <p>
@@ -13,12 +22,8 @@
 	I'm submitting this late because I also have a part time job at a startup in Cambridge 
 	that has kept me very busy the past couple weeks and made it difficult for me to find 
 	the time to sit down and go through all of the setup for this project.  This shouldn't happen
-	again.
+	again.  I hope this isn't too late.
 </p> 
-<p>
-	I hope that this submission isn't too late and that it won't be an issue that I didn't
-	do any CSS formatting on this.  My CSS is a little rusty and I'm short on time -- planning
-	on brushing up over the weekend.
-</p>
+
 </body>
 </html>
